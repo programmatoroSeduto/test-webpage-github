@@ -1,8 +1,10 @@
 # test webpage github
 
-vedi tutorial:
+Test di GitHub Pages per la pubblicazione di documentazione online. 
 
->https://www.thinkful.com/learn/a-guide-to-using-github-pages/start/existing-project/project-page/existing-repo/
+vedi uesto bellissimo tutorial (a prova di scemo):
+
+>https://www.thinkful.com/learn/a-guide-to-using-github-pages/
 
 ## Come hostare una pagina web su GitHub
 
